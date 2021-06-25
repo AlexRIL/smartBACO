@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/smartBACO/static/css/main.d8255133.chunk.css",
+    "main.js": "/smartBACO/static/js/main.821f1936.chunk.js",
+    "main.js.map": "/smartBACO/static/js/main.821f1936.chunk.js.map",
+    "runtime-main.js": "/smartBACO/static/js/runtime-main.ea5d1240.js",
+    "runtime-main.js.map": "/smartBACO/static/js/runtime-main.ea5d1240.js.map",
+    "static/js/2.390af264.chunk.js": "/smartBACO/static/js/2.390af264.chunk.js",
+    "static/js/2.390af264.chunk.js.map": "/smartBACO/static/js/2.390af264.chunk.js.map",
+    "static/js/3.46a2c270.chunk.js": "/smartBACO/static/js/3.46a2c270.chunk.js",
+    "static/js/3.46a2c270.chunk.js.map": "/smartBACO/static/js/3.46a2c270.chunk.js.map",
+    "index.html": "/smartBACO/index.html",
+    "static/css/main.d8255133.chunk.css.map": "/smartBACO/static/css/main.d8255133.chunk.css.map",
+    "static/js/2.390af264.chunk.js.LICENSE.txt": "/smartBACO/static/js/2.390af264.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea5d1240.js",
+    "static/js/2.390af264.chunk.js",
+    "static/css/main.d8255133.chunk.css",
+    "static/js/main.821f1936.chunk.js"
+  ]
+}
