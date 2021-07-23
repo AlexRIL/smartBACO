@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/smartBACO/static/css/main.4f8400da.chunk.css",
-    "main.js": "/smartBACO/static/js/main.cdcb6dbb.chunk.js",
-    "main.js.map": "/smartBACO/static/js/main.cdcb6dbb.chunk.js.map",
+    "main.js": "/smartBACO/static/js/main.0e1c8901.chunk.js",
+    "main.js.map": "/smartBACO/static/js/main.0e1c8901.chunk.js.map",
     "runtime-main.js": "/smartBACO/static/js/runtime-main.26bca76d.js",
     "runtime-main.js.map": "/smartBACO/static/js/runtime-main.26bca76d.js.map",
     "static/js/2.71b5a0df.chunk.js": "/smartBACO/static/js/2.71b5a0df.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.26bca76d.js",
     "static/js/2.71b5a0df.chunk.js",
     "static/css/main.4f8400da.chunk.css",
-    "static/js/main.cdcb6dbb.chunk.js"
+    "static/js/main.0e1c8901.chunk.js"
   ]
 }
