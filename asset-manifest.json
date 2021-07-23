@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/smartBACO/static/css/main.fbf2ec34.chunk.css",
-    "main.js": "/smartBACO/static/js/main.fc154db0.chunk.js",
-    "main.js.map": "/smartBACO/static/js/main.fc154db0.chunk.js.map",
+    "main.css": "/smartBACO/static/css/main.7fe62027.chunk.css",
+    "main.js": "/smartBACO/static/js/main.1f9731f7.chunk.js",
+    "main.js.map": "/smartBACO/static/js/main.1f9731f7.chunk.js.map",
     "runtime-main.js": "/smartBACO/static/js/runtime-main.26bca76d.js",
     "runtime-main.js.map": "/smartBACO/static/js/runtime-main.26bca76d.js.map",
     "static/js/2.de533aa6.chunk.js": "/smartBACO/static/js/2.de533aa6.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.31e8b31b.chunk.js": "/smartBACO/static/js/3.31e8b31b.chunk.js",
     "static/js/3.31e8b31b.chunk.js.map": "/smartBACO/static/js/3.31e8b31b.chunk.js.map",
     "index.html": "/smartBACO/index.html",
-    "static/css/main.fbf2ec34.chunk.css.map": "/smartBACO/static/css/main.fbf2ec34.chunk.css.map",
+    "static/css/main.7fe62027.chunk.css.map": "/smartBACO/static/css/main.7fe62027.chunk.css.map",
     "static/js/2.de533aa6.chunk.js.LICENSE.txt": "/smartBACO/static/js/2.de533aa6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.26bca76d.js",
     "static/js/2.de533aa6.chunk.js",
-    "static/css/main.fbf2ec34.chunk.css",
-    "static/js/main.fc154db0.chunk.js"
+    "static/css/main.7fe62027.chunk.css",
+    "static/js/main.1f9731f7.chunk.js"
   ]
 }
